@@ -8,13 +8,6 @@
   <br/><br/> 
 </p>
 <br/>
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![Unlicense License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
 [![GitHub Stars](https://img.shields.io/github/stars/kidalang/serverdb.svg)](https://github.com/kidalang/serverdb/stargazers) 
 [![GitHub Issues](https://img.shields.io/github/issues/kidalang/serverdb.svg)](https://github.com/kidalang/serverdb/issues) 
 [![Current Version](https://img.shields.io/badge/version-1.0.7-green.svg)](https://github.com/kidalang/serverdb) 
@@ -22,6 +15,7 @@
 
 <hr />
 ## Contributors ✨
+<br/>
 <a href="https://github.com/kidalang/serverdb/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=kidalang/serverdb" alt="contrib.rocks image" />
 </a>
